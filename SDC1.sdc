@@ -1,0 +1,2 @@
+set_global_assignment -name AUTO_PARALLEL_SYNTHESIS OFF
+set_global_assignment -name NUM_PARALLEL_PROCESSORS 1
