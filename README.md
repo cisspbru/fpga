@@ -1,5 +1,8 @@
 # fpga
 
+// built based on
+// https://github.com/secworks/blake2/blob/master/src/rtl/blake2_G.v
+// https://github.com/Toms42/fpga-hash-breaker/blob/master/design%20files/hash-operation.v
 
 blake2
 ======
